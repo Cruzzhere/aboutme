@@ -1,0 +1,30 @@
+  body {
+    background-color: #FFE6E6;
+  }
+
+  input {
+    color: #BD1616;
+    border-width: 10px;
+    border-radius: 5px;
+    border: 25px;
+  }
+
+  textarea {
+    border-radius: 5px;
+    border: 25px;
+  }
+
+  label {
+    color: #BD1616;
+  }
+
+  a {
+    color: #BD1616;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 50%;
+    border-color: black;
+  }
